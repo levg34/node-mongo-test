@@ -1,0 +1,23 @@
+{
+  "name": "node-mongo-test",
+  "version": "1.0.0",
+  "description": "test mongo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levg34/node-mongo-test.git"
+  },
+  "author": "levg34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levg34/node-mongo-test/issues"
+  },
+  "homepage": "https://github.com/levg34/node-mongo-test#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongodb": "^2.2.30"
+  }
+}
